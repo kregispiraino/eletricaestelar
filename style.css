@@ -303,8 +303,8 @@ button {
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(180deg, rgba(10, 10, 11, 0.68) 0%, rgba(10, 10, 11, 0.86) 60%, rgba(10, 10, 11, 0.96) 100%),
-    radial-gradient(120% 80% at 80% 0%, rgba(229, 199, 133, 0.14), transparent 55%);
+    linear-gradient(180deg, rgba(10, 10, 11, 0.42) 0%, rgba(10, 10, 11, 0.62) 60%, rgba(10, 10, 11, 0.82) 100%),
+    radial-gradient(120% 80% at 80% 0%, rgba(229, 199, 133, 0.16), transparent 55%);
 }
 
 .hero-glow {
@@ -986,6 +986,14 @@ button {
 
   .menu-toggle {
     display: flex;
+  }
+
+  .site-header {
+    background: linear-gradient(180deg, rgb(10, 10, 11) 0%, rgba(30, 30, 34, 0.86) 100%);
+  }
+
+  .nav-mobile {
+    background: linear-gradient(180deg, rgba(10, 10, 11, 0.96) 0%, rgba(30, 30, 34, 0.88) 100%);
   }
 
   .services-grid {
