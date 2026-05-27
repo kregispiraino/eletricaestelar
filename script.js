@@ -45,6 +45,11 @@
         title: "Projeto elétrico completo",
         desc: "Do dimensionamento ao quadro final, com execução do projeto do início ao fim.",
         img: "assets/servicos/projeto-eletrico.webp"
+      },
+      {
+        title: "Instalação de painéis e máquinas",
+        desc: "Instalação elétrica completa para painéis, máquinas e equipamentos.",
+        img: "assets/servicos/instalacao-paineis.webp"
       }
     ],
     industrial: [
@@ -67,11 +72,6 @@
         title: "Troca de componentes",
         desc: "Identificação e substituição de componentes danificados ou desgastados.",
         img: "assets/servicos/troca-de-componentes.webp"
-      },
-      {
-        title: "Instalação de painéis e máquinas",
-        desc: "Instalação elétrica completa para painéis, máquinas e equipamentos industriais.",
-        img: "assets/servicos/instalacao-paineis.webp"
       }
     ]
   };
