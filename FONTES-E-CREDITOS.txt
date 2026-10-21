@@ -1,0 +1,39 @@
+ELÉTRICA ESTELAR — FONTES E CRÉDITOS
+
+Referência local fornecida pelo usuário:
+../Project - sub4sites/Websites/Eletrica Estelar - focused-tenderness/
+
+Site oficial consultado em 20/10/2026 (São Paulo):
+https://estelareletrica.com/
+https://estelareletrica.com/script.js
+O catálogo JavaScript publicado foi comparado ao arquivo local e é idêntico.
+
+IDENTIDADE
+Logo original: assets/logo.png, copiada sem alteração do projeto de referência.
+Favicon original: assets/favicon.png.
+Paleta de marca no style.css original: #D2AC6A, #E5C785 e #B98E4A.
+Aplicação nesta versão: fundos brancos, neutros quentes e dourado. Tom mais escuro para textos dourados legíveis.
+A logo é enquadrada via CSS para ocultar suas margens transparentes.
+
+DADOS PÚBLICOS
+Telefone / WhatsApp: (47) 99611-5841 / https://wa.me/5547996115841
+Instagram: https://www.instagram.com/eletricaestelar
+Endereço: Rua Antônio Inácio Kons, 257, Testo Salto, Blumenau/SC.
+Atendimento: Blumenau e região, de segunda a sábado.
+
+CATÁLOGO E FOTOGRAFIAS
+Todos os 14 serviços vêm do objeto SERVICES no script.js original.
+As imagens de assets/images/ são cópias dos arquivos originais de assets/servicos/ e assets/principal.webp. Os arquivos não foram alterados; os recortes visuais são feitos em CSS. O uso é para o site da própria empresa a pedido do usuário, sem atribuição adicional de autoria das obras.
+
+Destaques residenciais: cameras.webp, portao-eletronico.webp, reparos.webp.
+Destaques gerais: projeto-eletrico.webp, circuito.webp, instalacao-paineis.webp.
+Destaques industriais: paineis.webp, disjuntores_industriais.webp, reparo-circuito-maquinas.webp.
+Demais imagens originais mantidas na pasta para futuras alterações.
+
+TIPOGRAFIA
+Arial, com alternativas Helvetica e sans-serif do sistema. Sem carregamento externo de fontes.
+Os arquivos Manrope da versão anterior permanecem arquivados em assets/fonts/, com a licença original, mas não são carregados pelo site.
+
+INTEGRAÇÕES
+Google Maps incorporado com o endereço publicado pela empresa.
+Conta Google Ads AW-18392029352 preservada do HTML original, ativa somente no domínio de produção.
